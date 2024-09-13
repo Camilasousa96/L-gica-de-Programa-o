@@ -1,3 +1,6 @@
+/*Escreva um programa que conte de 10 até 1 usando um laço
+while.*/
+
 let n = 1; // Inicializa n com o valor 1
 let soma = 0; // Inicializa a variável soma com 0
 
